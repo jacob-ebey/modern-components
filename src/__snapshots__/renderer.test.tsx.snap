@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`element renders custom component with props 1`] = `"<div>Hello Modern Components!</div>"`;
+
+exports[`element renders custom component with text 1`] = `"<div>Hello World!</div>"`;
+
+exports[`element renders div with text 1`] = `"<div>Hello, World</div>"`;
+
+exports[`element renders recursive 1`] = `"<div><div>Hello Recursive Things!</div><div style=\\"background-color: blue;\\">I'm Blue!</div></div>"`;
+
+exports[`element renders style 1`] = `"<div style=\\"background-color: blue;\\">I'm Blue!</div>"`;
+
+exports[`element uses state 1`] = `"<input>"`;
